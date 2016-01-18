@@ -45,7 +45,7 @@ public class ForecastFragment extends android.support.v4.app.Fragment {
 
     @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
-        inflater.inflate(R.menu.forecastfragment, menu);
+        inflater.inflate(R.menu.forecastframgent, menu);
         Log.d(LOG_TAG, "Inflé el menú");
     }
 
